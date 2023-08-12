@@ -4,7 +4,6 @@ import AddItem from './AddItem'
 import { SwipeListView} from 'react-native-swipe-list-view';
 import { Button  } from 'react-native-paper';
 import ModifyItem from './ModifyItem'
-
 class List extends Component{
 
     state = {

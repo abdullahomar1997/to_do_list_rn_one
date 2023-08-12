@@ -2,8 +2,6 @@ import React, { Component } from 'react';
 import { TextInput , Button  } from 'react-native-paper';
 import { StyleSheet , View, Modal} from 'react-native'
 
-
-
 class ModifyItem extends Component{
 
     state = {
